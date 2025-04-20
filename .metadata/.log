@@ -443,3 +443,513 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.lsp4e 1 0 2025-04-20 12:47:25.484
 !MESSAGE [Info]	[streamChoices] request done: headerRequestId: [bfcec763-ede5-4a64-94d6-95f112aaf4ab] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 13:01:42.381
+!MESSAGE [Info]	[fetchChat] request.response: [https://api.individual.githubcopilot.com/chat/completions] took 1112.4482000023127 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 13:01:42.383
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 13:01:42.384
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [18c8c359-6732-4103-9b29-42443eea785e] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 13:01:43.124
+!MESSAGE [Info]	[fetchChat] request.response: [https://api.individual.githubcopilot.com/chat/completions] took 721.7556999996305 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 13:01:46.513
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [064ada45-e0a9-4db8-826d-8a1319b20b9a] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 13:01:46.514
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 13:01:47.147
+!MESSAGE [Info]	[fetchChat] request.response: [https://api.individual.githubcopilot.com/chat/completions] took 581.7370999976993 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 13:01:47.156
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 13:01:47.158
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [781ca3e2-f3be-4f56-856a-f7cc405ab3ee] model deployment ID: []
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-04-20 13:30:24.833
+!MESSAGE [Info] Document is null for editor: GenerateEmail.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-04-20 13:30:24.834
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///C:/Users/nyema/Desktop/Projects/Email%20Administration%20Application/Email_Admin_Appln/src/emailAppMainPackage/GenerateEmail.java
+!SESSION 2025-04-20 13:30:27.921 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=23.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2025-04-20 13:30:30.861
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-04-20 13:30:34.640
+!MESSAGE Logback config file: C:\Users\nyema\Desktop\Projects\Email Administration Application\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-04-20 13:30:41.518
+!MESSAGE [Info] Starting language server with binary lsp agent.
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-04-20 13:30:41.544
+!MESSAGE [Info] Lsp agent started successfully.
+
+!ENTRY org.eclipse.egit.ui 2 0 2025-04-20 13:30:41.643
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\nyema'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-04-20 13:30:41.874
+!MESSAGE [Info] No proxy data found
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 13:30:42.798
+!MESSAGE [Info]	[lsp] GitHub Copilot Language Server 1.290.0 initialized
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 13:30:43.229
+!MESSAGE [Info]	[certificates] Removed 7 expired certificates
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 13:31:20.021
+!MESSAGE [Info]	[fetchChat] request.response: [https://api.githubcopilot.com/chat/completions] took 769.6169999999984 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 13:31:20.022
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 13:31:20.023
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [fd8563df-9f10-4259-800a-112b869b6aa0] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 13:31:20.654
+!MESSAGE [Info]	[fetchChat] request.response: [https://api.githubcopilot.com/chat/completions] took 594.1770000000033 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 13:31:23.903
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 13:31:23.904
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [c71444a7-7318-48cf-8464-4b517869c0a1] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 13:31:24.441
+!MESSAGE [Info]	[fetchChat] request.response: [https://api.githubcopilot.com/chat/completions] took 538.9199000000008 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 13:31:24.447
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 13:31:24.449
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [bda44195-3746-4d5a-81f9-83db476e4b2a] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 13:32:47.595
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/gpt-4o-copilot/completions] took 1288.1472000000067 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 13:32:47.597
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 13:32:47.598
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [ec797e7e-ca50-4c45-bce2-0b0391dfff63] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 13:32:50.804
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/gpt-4o-copilot/completions] took 1137.2112999999954 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 13:32:50.823
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 13:32:50.825
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [a6df22d9-5af8-42be-9d07-21b41ca9450e] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 13:32:52.114
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/gpt-4o-copilot/completions] took 505.0222999999969 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 13:32:52.115
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [d77d428f-6993-49e9-8def-b34a4e13404d] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 13:32:52.116
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 13:32:55.686
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/gpt-4o-copilot/completions] took 804.9968999999983 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 13:32:55.687
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 13:32:55.688
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [889dfff8-2a2d-4271-8af9-ee3bb61c5555] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 13:32:59.533
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/gpt-4o-copilot/completions] took 544.1652999999933 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 13:32:59.535
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 13:32:59.536
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [11e2246a-8bac-4b76-8a8d-48b5591753b2] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 13:33:08.805
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/gpt-4o-copilot/completions] took 477.7434999999823 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 13:33:08.806
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 13:33:08.807
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [f94dd7bd-7290-4569-9b42-015e519c6eea] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 13:33:09.861
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/gpt-4o-copilot/completions] took 592.0334999999905 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 13:33:09.861
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [6c82bc05-4868-4d28-9cc5-798911f1b407] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 13:33:09.862
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 13:33:12.888
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 13:33:12.889
+!MESSAGE [Info]	[fetchCompletions] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/gpt-4o-copilot/completions] took 435.3875999999873 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 13:33:12.891
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [f90c7679-9eb9-4717-900d-f5e67c1aab2e] model deployment ID: []
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-04-20 13:33:25.066
+!MESSAGE [Info] Auto show completion is now false
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 15:46:55.064
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 15:46:55.066
+!MESSAGE [Info]	[fetchChat] request.response: [https://api.individual.githubcopilot.com/chat/completions] took 464.58820000011474 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 15:46:55.067
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [1ce21c1e-c932-42e8-b129-c9580a707d3e] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 15:46:55.829
+!MESSAGE [Info]	[fetchChat] request.response: [https://api.individual.githubcopilot.com/chat/completions] took 664.1352000003681 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 15:47:02.239
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 15:47:02.240
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [bb437e7d-f6f5-469d-9fc7-d0a1c4458f74] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 15:47:03.001
+!MESSAGE [Info]	[fetchChat] request.response: [https://api.individual.githubcopilot.com/chat/completions] took 781.5919000003487 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 15:47:03.007
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 15:47:03.007
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [0b559671-a54a-4471-abe1-231f0fded6a5] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 16:08:12.677
+!MESSAGE [Info]	[fetchChat] request.response: [https://api.individual.githubcopilot.com/chat/completions] took 1246.3209999985993 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 16:08:12.678
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [abbc14c2-3c54-47fe-93f0-820dec40f818] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 16:08:12.679
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 16:08:13.522
+!MESSAGE [Info]	[fetchChat] request.response: [https://api.individual.githubcopilot.com/chat/completions] took 795.8091000001878 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 16:08:15.262
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 16:08:15.262
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [c5b5508d-7ebf-4d36-b22d-ea0c6ba590ab] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 16:08:16.210
+!MESSAGE [Info]	[fetchChat] request.response: [https://api.individual.githubcopilot.com/chat/completions] took 990.3717000000179 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 16:08:16.211
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [85d68bf5-2122-4437-9bc2-c32fba9f4ccb] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 16:08:16.211
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2025-04-20 16:14:39.148
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///C:/Users/nyema/Desktop/Projects/Email%20Administration%20Application/Email_Admin_Appln/src/emailAppMainPackage/GenerateEmployeeCreds.java
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 16:56:58.254
+!MESSAGE [Info]	[fetchChat] request.response: [https://api.individual.githubcopilot.com/chat/completions] took 646.3997000008821 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 16:56:58.255
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [2b2a3f2b-26ce-4f56-9167-72c23e778bf2] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 16:56:58.256
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 16:56:58.941
+!MESSAGE [Info]	[fetchChat] request.response: [https://api.individual.githubcopilot.com/chat/completions] took 626.8018000014126 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 16:57:00.961
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 16:57:00.962
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [60d5da21-51b8-48cd-af8c-7b70ffd6b282] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 16:57:01.493
+!MESSAGE [Info]	[fetchChat] request.response: [https://api.individual.githubcopilot.com/chat/completions] took 594.4080999996513 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 16:57:01.494
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [35a52fd7-7259-46c6-b8e4-7dcc37f57312] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 16:57:01.496
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 16:59:15.941
+!MESSAGE [Info]	[fetchChat] request.response: [https://api.individual.githubcopilot.com/chat/completions] took 1084.6954999994487 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 16:59:15.942
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [a74afff9-3fa7-418a-bda8-831a99991ea9] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 16:59:15.943
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 16:59:16.690
+!MESSAGE [Info]	[fetchChat] request.response: [https://api.individual.githubcopilot.com/chat/completions] took 707.2987999990582 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 16:59:17.858
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 16:59:17.858
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [e2c13859-c9a5-41dc-a376-a56fb32ee281] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 16:59:18.280
+!MESSAGE [Info]	[fetchChat] request.response: [https://api.individual.githubcopilot.com/chat/completions] took 605.0749999992549 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 16:59:18.283
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 16:59:18.283
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [a2b25eab-7889-4df7-a99f-6f7bed119517] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:06:29.187
+!MESSAGE [Info]	[fetchChat] request.response: [https://api.individual.githubcopilot.com/chat/completions] took 548.1658999994397 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:06:29.189
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [3e1d617a-799c-4968-8197-2ff39dfcda12] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:06:29.189
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:06:29.942
+!MESSAGE [Info]	[fetchChat] request.response: [https://api.individual.githubcopilot.com/chat/completions] took 703.1843999996781 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:06:32.027
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:06:32.028
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [ec77ffb6-11ff-445a-9a3d-b25099178e05] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:06:32.579
+!MESSAGE [Info]	[fetchChat] request.response: [https://api.individual.githubcopilot.com/chat/completions] took 576.4689000006765 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:06:32.580
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:06:32.581
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [75b85135-750b-4a47-9e67-9e8fb07bf06d] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:10:33.428
+!MESSAGE [Info]	[fetchChat] request.response: [https://api.individual.githubcopilot.com/chat/completions] took 1091.8860999979079 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:10:33.429
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [00ef975f-47e8-43a6-8c78-aec5832ceaeb] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:10:33.430
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:10:34.274
+!MESSAGE [Info]	[fetchChat] request.response: [https://api.individual.githubcopilot.com/chat/completions] took 727.318100001663 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:10:37.497
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:10:37.498
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [2a78214d-0771-4a78-9df7-e3d70c18274f] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:10:37.900
+!MESSAGE [Info]	[fetchChat] request.response: [https://api.individual.githubcopilot.com/chat/completions] took 559.6759000010788 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:10:37.901
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [5442b6c2-fdfb-4625-b2b3-43b792551976] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:10:37.901
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.egit.core 4 0 2025-04-20 18:14:26.627
+!MESSAGE An exception occurred during push on URI https://github.com/NyemaanCodes/Email-Administration-Application.git: https://github.com/NyemaanCodes/Email-Administration-Application.git: not authorized
+!STACK 0
+org.eclipse.jgit.errors.TransportException: https://github.com/NyemaanCodes/Email-Administration-Application.git: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:694)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:636)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:540)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:140)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1533)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:269)
+	at org.eclipse.egit.ui.internal.push.PushJob.performJob(PushJob.java:86)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:59)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.ui 4 0 2025-04-20 18:14:26.633
+!MESSAGE Can't connect to any repository: https://github.com/NyemaanCodes/Email-Administration-Application.git (https://github.com/NyemaanCodes/Email-Administration-Application.git: not authorized)
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:15:42.656
+!MESSAGE [Info]	[fetchChat] request.response: [https://api.individual.githubcopilot.com/chat/completions] took 1078.6842000000179 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:15:42.669
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:15:42.670
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [89a92e2b-245b-45db-9513-21d76b786bd2] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:15:43.536
+!MESSAGE [Info]	[fetchChat] request.response: [https://api.individual.githubcopilot.com/chat/completions] took 841.4912999980152 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:15:45.575
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:15:45.576
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [84602e1f-62c8-4745-9c8e-1949104ca188] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:15:46.024
+!MESSAGE [Info]	[fetchChat] request.response: [https://api.individual.githubcopilot.com/chat/completions] took 570.7649999968708 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:15:46.028
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:15:46.029
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [1f22ce8a-2ea0-4c45-b1fa-7883cb67bfb2] model deployment ID: []
+
+!ENTRY org.eclipse.egit.core 4 0 2025-04-20 18:17:27.126
+!MESSAGE An exception occurred during push on URI https://github.com/NyemaanCodes/Email-Administration-Application.git: https://github.com/NyemaanCodes/Email-Administration-Application.git: not authorized
+!STACK 0
+org.eclipse.jgit.errors.TransportException: https://github.com/NyemaanCodes/Email-Administration-Application.git: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:694)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:636)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:540)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:140)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1533)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:269)
+	at org.eclipse.egit.ui.internal.push.ConfirmationPage$2.run(ConfirmationPage.java:204)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:124)
+
+!ENTRY org.eclipse.equinox.security 1 0 2025-04-20 18:22:40.840
+!MESSAGE New keyring password generated. 
+
+!ENTRY org.eclipse.egit.core 4 0 2025-04-20 18:22:41.424
+!MESSAGE An exception occurred during push on URI https://github.com/NyemaanCodes/Email-Administration-Application.git: https://github.com/NyemaanCodes/Email-Administration-Application.git: git-receive-pack not permitted on 'https://github.com/NyemaanCodes/Email-Administration-Application.git/'
+!STACK 0
+org.eclipse.jgit.errors.TransportException: https://github.com/NyemaanCodes/Email-Administration-Application.git: git-receive-pack not permitted on 'https://github.com/NyemaanCodes/Email-Administration-Application.git/'
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:701)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:636)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:540)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:140)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1533)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:269)
+	at org.eclipse.egit.ui.internal.push.PushJob.performJob(PushJob.java:86)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:59)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.ui 4 0 2025-04-20 18:22:41.426
+!MESSAGE Can't connect to any repository: https://github.com/NyemaanCodes/Email-Administration-Application.git (https://github.com/NyemaanCodes/Email-Administration-Application.git: git-receive-pack not permitted on 'https://github.com/NyemaanCodes/Email-Administration-Application.git/')
+
+!ENTRY org.eclipse.egit.core 4 0 2025-04-20 18:23:03.782
+!MESSAGE An exception occurred during push on URI https://github.com/NyemaanCodes/Email-Administration-Application.git: https://github.com/NyemaanCodes/Email-Administration-Application.git: git-receive-pack not permitted on 'https://github.com/NyemaanCodes/Email-Administration-Application.git/'
+!STACK 0
+org.eclipse.jgit.errors.TransportException: https://github.com/NyemaanCodes/Email-Administration-Application.git: git-receive-pack not permitted on 'https://github.com/NyemaanCodes/Email-Administration-Application.git/'
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:701)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:636)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:540)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:140)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1533)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:269)
+	at org.eclipse.egit.ui.internal.push.PushJob.performJob(PushJob.java:86)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:59)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.ui 4 0 2025-04-20 18:23:03.784
+!MESSAGE Can't connect to any repository: https://github.com/NyemaanCodes/Email-Administration-Application.git (https://github.com/NyemaanCodes/Email-Administration-Application.git: git-receive-pack not permitted on 'https://github.com/NyemaanCodes/Email-Administration-Application.git/')
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:23:22.271
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:23:22.272
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [376af6ce-d528-498a-9d79-5474d34bb2fc] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:23:22.272
+!MESSAGE [Info]	[fetchChat] request.response: [https://api.individual.githubcopilot.com/chat/completions] took 1193.1631999984384 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:23:23.067
+!MESSAGE [Info]	[fetchChat] request.response: [https://api.individual.githubcopilot.com/chat/completions] took 774.1228999979794 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:23:27.620
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [41ef73f8-b12b-466f-8976-f256f524cd04] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:23:27.622
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:23:27.850
+!MESSAGE [Info]	[fetchChat] request.response: [https://api.individual.githubcopilot.com/chat/completions] took 693.1296999976039 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:23:28.013
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:23:28.013
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [2598c197-0ee7-499b-ac5d-a129287e94fe] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:24:15.123
+!MESSAGE [Info]	[fetchChat] request.response: [https://api.individual.githubcopilot.com/chat/completions] took 930.8447000011802 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:24:15.136
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [7a7f074a-dfe5-457a-91b1-7c2b9d979634] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:24:15.137
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:24:15.950
+!MESSAGE [Info]	[fetchChat] request.response: [https://api.individual.githubcopilot.com/chat/completions] took 781.1277000010014 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:24:17.150
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:24:17.151
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [d6d434a2-50ed-4f15-977a-faa9c3d89860] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:24:17.963
+!MESSAGE [Info]	[fetchChat] request.response: [https://api.individual.githubcopilot.com/chat/completions] took 854.2454999983311 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:24:17.967
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:24:17.969
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [ae2c4887-89a2-496e-8aff-61ad35fff1be] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:25:30.126
+!MESSAGE [Info]	[fetchChat] request.response: [https://api.individual.githubcopilot.com/chat/completions] took 583.3452000021935 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:25:30.127
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [6bb8fcc8-854a-4651-86a0-19c5a3064675] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:25:30.128
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:25:30.878
+!MESSAGE [Info]	[fetchChat] request.response: [https://api.individual.githubcopilot.com/chat/completions] took 723.6836000010371 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:25:33.348
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:25:33.349
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [45f3b43b-7c35-4812-ac10-cd313d0d3cf2] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:25:33.892
+!MESSAGE [Info]	[fetchChat] request.response: [https://api.individual.githubcopilot.com/chat/completions] took 604.6718000024557 ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:25:33.900
+!MESSAGE [Info]	[streamChoices] request done: headerRequestId: [1fc0d616-8e2c-4916-8a0e-65de1cbed0d0] model deployment ID: []
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-04-20 18:25:33.900
+!MESSAGE [Info]	[streamMessages] message 0 returned. finish reason: [stop]
