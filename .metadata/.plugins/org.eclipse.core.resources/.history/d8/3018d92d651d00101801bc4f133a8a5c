@@ -1,0 +1,97 @@
+package emailAppMainPackage;
+
+import java.util.*;
+
+public class GenerateEmail {
+
+	private String firstName;
+	private String lastName;
+	private String NewEmail;
+	private String CompanyName = "skytechSolutions";
+	private String Department;
+	private int DefaultPassLenght = 12;
+	private String password;
+	private int MailBoxCapcity;
+	private String AltEmail;
+	
+	//Ask for first and last name of new employee, pass the name from the main method to
+	// this class's constructor, default constructor is converted to parameterized Constructor
+	//CLASS CONSTRUCTOR
+	public GenerateEmail(String firstName, String lastName) {
+
+		//Variable instance of this class = variable value passed into the function
+		this.firstName = firstName;
+		this.lastName = lastName;
+		
+		//Assign Department to employee
+		Department = setDept();
+		System.out.println("Department set Succesfully!");
+		
+		//Generate email for the employee
+		NewEmail = firstName + "." + lastName + "@" + Department + "." + CompanyName +".com";
+		System.out.println("Email: " + NewEmail);
+		/*
+		//Generate password and display it for the the new employee
+		password = randomPassGenerator();
+		System.out.println("Password Generated and Assigned: " + password);
+		*/
+		
+	}
+	
+	//Assign Department to the new employee, *can be null
+	private String setDept() {
+		System.out.print("Department Options: \n 1. Sales \n 2. Engineer \n 3. Support \n 4. Accounting \n 5. None \n Enter Option Number: ");
+		Scanner sc = new Scanner(System.in);
+		int Option = sc.nextInt();
+		
+		if(Option == 1) {
+			return "Sales";
+		}
+		else if(Option == 2) {
+			return "Engineer";
+		}
+		else if(Option == 3) {
+			return "Support";
+		}
+		else if(Option == 4) {
+			return "Accounting";
+		}
+		else{
+			return "NONE";
+		}
+		
+		
+	}
+
+	
+	//Constructor to generate the Email id of new employee using their first and last name
+	private String randomPassGenerator() {
+		String PassLibrary = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890@#$%&*!";
+		
+		//character variable char array of DefaultPassLenght
+		char[] GeneratedPassword = new char[DefaultPassLenght];
+		
+		for(int i = 0; i<= DefaultPassLenght ; i++) {
+			//Choose a random index, where Math.random would give a random decimal value between 0.0 and 0.1 Multiplied by the length of PassLibrary
+			//(int), converts the multiplication result in to a integer by removing the decimal which is then stored in random index variable
+			int randomIndex = (int) (Math.random() * PassLibrary.length());
+			//take value at the randomeIndex from PassLibrary and add it to the Password
+			GeneratedPassword[i] = PassLibrary.charAt(randomIndex);
+			
+		}
+		
+		
+		return new String(GeneratedPassword);
+	}
+	
+	//Constructor to generate an random password for the new employee's email id
+	
+	
+	//Set MailBox Capacity
+	
+	//Ask for Alternate Email id.
+	
+	//Display all necessary Details of the Newly Generated Employee Email
+	
+	
+}

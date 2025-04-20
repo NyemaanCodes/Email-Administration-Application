@@ -1,0 +1,41 @@
+package emailAppMainPackage;
+
+public class GenerateEmail {
+
+	private String firstName;
+	private String lastName;
+	private String Department;
+	private String password;
+	private int MailBoxCapcity;
+	private String AltEmail;
+	
+	//Ask for first and last name of new employee, pass the name from the main method to
+	// this class's constructor, default constructor is converted to parameterized Constructor
+	
+	public GenerateEmail(String firstName, String lastName) {
+		//this keyword used within an instance method or a constructor to 
+		//access members of the current object such as instance variables, methods, and constructors.
+		
+	//Variable instance of this class = variable value passed into the function
+		this.firstName = firstName;
+		this.lastName = lastName;
+		
+		
+	}
+	
+	//Assign Department to the new employee, can be null
+
+	
+	//Constructor to generate the Email id of new employee using their first and last name
+	
+	//Constructor to generate an random password for the new employee's email id
+	
+	
+	//Set MailBox Capacity
+	
+	//Ask for Alternate Email id.
+	
+	//Display all necessary Details of the Newly Generated Employee Email
+	
+	
+}
